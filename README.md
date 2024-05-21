@@ -50,6 +50,5 @@ By following these instructions, you can deploy the application with the reduced
 ---
 
 ## Contact 📝
-Anurag Biswal - 
 * [ramita.v2022ai-ml@sece.ac.in](ramita.v2022ai-ml@sece.ac.in "ramita.v2022ai-ml@sece.ac.in")
 * [LinkedIn](https://www.linkedin.com/in/ramita-v-b4a539245/ "LinkedIn")
